@@ -6,4 +6,5 @@ Aravind Narayanan;
 select * from ap_suppliers where vendor_type_lookup_code='EMPLOYEE';
 -- added now as bug fix -- SR 1234
 drop table xxxx;
+commit;
 ---------------------------------------
