@@ -4,3 +4,6 @@ select * from fnd_user where user_id=1130;
 update ap_suppliers set vendor_name='Vineet Kumar_15747' where employee_id=9896;
 Aravind Narayanan;
 select * from ap_suppliers where vendor_type_lookup_code='EMPLOYEE';
+-- added now as bug fix -- SR 1234
+drop table xxxx;
+---------------------------------------
